@@ -12,6 +12,7 @@ namespace Cw
     {
         static void Main(string[] args)
         {
+            //
             TimeSpan begin = new TimeSpan(8, 0, 0);
             TimeSpan end = new TimeSpan(20, 0, 0);
             TimeSpan dur = new TimeSpan(0, 30, 0);
